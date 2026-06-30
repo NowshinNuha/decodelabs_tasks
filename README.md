@@ -21,3 +21,13 @@ This repository contains the strategic 30-day content roadmap designed for Decod
 Instead of monitoring vanity metrics like generic post likes, success for this strategy is measured via:
 1. **LinkedIn:** Target profile visits from decision makers (HR, Training & Placement Officers).
 2. **Instagram:** Conversion velocity and the quality of incoming structural inbound queries in direct messages.
+
+
+# Project 2: SEO Basics & Keyword Research - DecodeLabs
+
+## 🎯 Project Overview
+This module transitions our strategy from social outbound mechanics to structural search intent alignment. Developed an explicit, data-backed organic long-tail highway targeting 20 low-competition technical terms with a verified Keyword Golden Ratio (KGR) of < 0.25 to bypass high-authority competitor spaces.
+
+## 📁 Files Included
+1. **seo_strategy.md**: Strategic breakdown analyzing user queries using the Input-Process-Output (IPO) model.
+2. **keyword_research.xlsx**: Excel database of 20 calibrated, high-intent technical terms tracking search volume, intent archetypes, and precise KGR validations.
