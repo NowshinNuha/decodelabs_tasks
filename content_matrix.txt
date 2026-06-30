@@ -1,0 +1,64 @@
+﻿📌 Post 1: LinkedIn (Week 1 — Problem Awareness)
+* Core Trigger: Trust / Problem-First Thought Leadership
+* Hook Concept: Theory vs. Practice Gap
+* Visual Idea: An infographic chart showing a massive gap between "What university courses teach" vs. "What recruiters actually ask for in tech interviews".
+📢 CAPTION START:
+
+
+Is university placement fatigue real, or are we just teaching the wrong things? 
+
+
+Every year, thousands of students graduate knowing how to write basic syntax on a whiteboard. Yet, when they sit in front of a modern technical interviewer, they are asked to build live, deep-stack applications or optimize cloud-hosted dashboards. 
+
+
+The gap between academic theory and real-world industrial practice is widening. 
+
+
+At DecodeLabs, we believe marketing shouldn't be noise; it should be decision relief. We are shifting the focus from rote learning to actual deployment. It's time to bridge the gap.
+
+
+👉 Academics, TPOs, and Student Leads: What is the biggest skill gap you are noticing in graduates this semester? Let's discuss it below.
+
+
+#HigherEducation #TechHiring #PlacementOfficers #DecodeLabs #Upskilling
+
+
+
+
+📌 Post 2: Instagram (Week 2 — Technical Value)
+* Core Trigger: Cultural Resonance / Modern Relevance
+* Hook Concept: Reciprocal Value / Knowledge Sharing
+* Visual Idea: A high-fidelity, 5-second aesthetic reel featuring a dark-mode IDE beside a steaming beverage, capturing the "Vibe Coding" atmosphere.
+📢 CAPTION START:
+Stop trying to memorize code syntax. Start building things that break. 💻✨
+If you're stuck in tutorial hell, here is your sign to close the 40-hour lecture video and start building a real, live dashboard. Real programming isn't about writing perfect code on day one; it's about debugging your way through the chaos until something works. 
+Swipe left to grab this quick JavaScript snippet we used to optimize our team's operational logbook this morning! 🛠️
+Drop a 🔌 if you're coding tonight!
+#VibeCoding #CodeNewbie #WebDevelopment #ProgrammerLife #DecodeLabs #TechCommunity
+
+
+
+
+📌 Post 3: LinkedIn (Week 3 — Proving Authority)
+* Core Trigger: Trust / Proving Authority
+* Hook Concept: Peer Validation & Legitimacy
+* Visual Idea: A split-screen graphic: On the left, an unedited photo of an intern deeply focused on building a deep-stack dashboard. On the right, a clean official badge displaying DecodeLabs' MSME registration and AICTE compliance status.
+📢 CAPTION START:
+
+
+True authority isn't claimed. It's proven. 💼
+
+
+When evaluating an internship program for your university's students, professional compliance shouldn't be a guessing game. It requires verified structural alignment with national standards.
+
+
+DecodeLabs is proud to operate as a fully recognized MSME entity with strict AICTE compliance frameworks. But government verification is only half the equation. The real proof lies in the hands-on output of our cohorts—who skip the filler tasks and spend their time deploying deep-stack AI dashboards and enterprise architectures.
+
+
+We reduce the risk for universities so they can focus entirely on student success.
+
+
+Learn more about our verified industrial training frameworks on our website: www.decodelabs.tech
+
+
+#AICTE #MSME #HigherEducation #IndustrialTraining #B2BTech #Compliance
