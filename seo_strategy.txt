@@ -1,0 +1,23 @@
+﻿Project 2: SEO Fundamentals & Keyword Research - DecodeLabs
+
+
+🎯 Executive Niche Strategy: David vs. Goliath
+Instead of going up against massive aggregator platforms like Internshala by targeting hyper-competitive broad head terms (e.g., "Internship"), DecodeLabs wins by executing a hyper-targeted long-tail technical keyword approach. By targeting highly specific intent gaps, we secure low-competition, high-conversion organic search traffic.
+
+
+🧭 The 4 Archetypes of Intent Strategy
+We have mapped our target domain against search intents to capture users at varying stages of the curiosity lifecycle:
+1. Informational: Capturing searchers looking to build basic tech knowledge.
+2. Navigational: Directly guiding users who are explicitly looking for DecodeLabs properties.
+3. Commercial: Engaging candidates evaluating the best tech learning stacks for 2026.
+4. Transactional: Driving conversions for ready-to-act candidates seeking immediate industry placements.
+
+
+🏗️ Technical SEO Implementation: On-Page Beacons
+For our top transactional target keyword, the on-page metadata optimization is structured as follows:
+
+
+Target Keyword: Remote Data Science Internship 2026
+Title Tag: Remote Data Science Internship 2026 | DecodeLabs
+URL Slug: www.decodelabs.tech/data-science
+Meta Description: Apply for the best remote data science internship for B.Tech students. Learn Python, SQL, and get placed with a verified AICTE training kit framework.
